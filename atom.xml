@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gzd</title>
+  
+  <subtitle>This man is too lazy!</subtitle>
+  <link href="https://gzding.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://gzding.github.io/"/>
+  <updated>2024-03-20T13:15:06.722Z</updated>
+  <id>https://gzding.github.io/</id>
+  
+  <author>
+    <name>Gzd</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gzding.github.io/2024/03/20/hello-world/"/>
+    <id>https://gzding.github.io/2024/03/20/hello-world/</id>
+    <published>2024-03-20T13:15:06.722Z</published>
+    <updated>2024-03-20T13:15:06.722Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;$ hexo new &lt;span class=&quot;hljs-string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Learn Git</title>
+    <link href="https://gzding.github.io/2024/03/19/learn-git/"/>
+    <id>https://gzding.github.io/2024/03/19/learn-git/</id>
+    <published>2024-03-19T12:05:04.000Z</published>
+    <updated>2024-03-20T13:15:06.722Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;learngit&quot;&gt;&lt;a href=&quot;#learngit&quot; class=&quot;headerlink&quot; title=&quot;learngit&quot;&gt;&lt;/a&gt;learngit&lt;/h2&gt;&lt;p&gt;learn git &lt;/p&gt;
+&lt;p&gt;git clone &lt;a href=&quot;mailto:&amp;#103;&amp;#x69;&amp;#x74;&amp;#64;&amp;#103;&amp;#105;&amp;#x74;&amp;#104;&amp;#x75;&amp;#x62;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#103;&amp;#x69;&amp;#x74;&amp;#64;&amp;#103;&amp;#105;&amp;#x74;&amp;#104;&amp;#x75;&amp;#x62;&amp;#x2e;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;:Gzding&amp;#x2F;learngit.git&lt;/p&gt;
+&lt;h2 id=&quot;SSH-密钥&quot;&gt;&lt;a href=&quot;#SSH-密钥&quot; class=&quot;headerlink&quot; title=&quot;SSH 密钥&quot;&gt;&lt;/a&gt;SSH 密钥&lt;/h2&gt;&lt;p&gt;要安装 OpenSSH 才能使用 ssh，这在 Windows 中默认安装了。&lt;/p&gt;
+&lt;p&gt;执行下面命令，生成 ssh 密钥【回答yes，其他全回车就行】&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;ssh-keygen -t rsa -C &lt;span class=&quot;hljs-string&quot;&gt;&amp;quot;your_email@example.com&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;默认在用户目录下的 .ssh 目录内生成私钥和公钥 id_rsa.pub。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
